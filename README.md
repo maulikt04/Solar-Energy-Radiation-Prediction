@@ -10,21 +10,21 @@ The information includes columns for temperature, humidity, wind speed, and dire
 https://www.kaggle.com/datasets/dronio/SolarEnergy?select=SolarPrediction.csv
 
 ### Learning based methods:
-Supervised Learning
-Unsupervised Learning
-Reinforcement Learning
+1) Supervised Learning
+2) Unsupervised Learning
+3) Reinforcement Learning
 
 ### Road Map of the project:
-Data geathering/Collection
-Data Cleaning 
-Visulized the data by various libraries and dashboard
-Feature Scaling and feature selection with help of correlation study.
-After finish the data pre processing, we can try various machine learning models according to case of learning based methods.
-Model Validation with help of various method, check and defind suitable model with valid model validation
-Determine the various parameters like model accuracy, Errors, Matrix etc.
-Conclusion
+1) Data geathering/Collection
+2) Data Cleaning 
+3) Visulized the data by various libraries and dashboard
+4) Feature Scaling and feature selection with help of correlation study.
+5) After finish the data pre processing, we can try various machine learning models according to case of learning based methods.
+6) Model Validation with help of various method, check and defind suitable model with valid model validation
+7) Determine the various parameters like model accuracy, Errors, Matrix etc.
+8) Conclusion
 
 ### Programming Language and Libraries:
-Python
-Sklearn: Pandas, Numpy, Matplotlib, Seaboarn, model_selection
-Visulization tools: Tableau, Power BI (Optional)
+1) Python
+2) Sklearn: Pandas, Numpy, Matplotlib, Seaboarn, model_selection
+3) Visulization tools: Tableau, Power BI (Optional)
