@@ -10,9 +10,8 @@ The information includes columns for temperature, humidity, wind speed, and dire
 https://www.kaggle.com/datasets/dronio/SolarEnergy?select=SolarPrediction.csv
 
 ### Learning based methods:
-1) Supervised Learning
-2) Unsupervised Learning
-3) Reinforcement Learning
+Supervised Learning case of Regression models
+
 
 ### Road Map of the project:
 1) Data geathering/Collection
@@ -28,3 +27,9 @@ https://www.kaggle.com/datasets/dronio/SolarEnergy?select=SolarPrediction.csv
 1) Python
 2) Sklearn: Pandas, Numpy, Matplotlib, Seaboarn, model_selection
 3) Visulization tools: Tableau, Power BI (Optional)
+
+### Extra task (runnig....)
+1) Tensor flow
+2) Keras
+3) RNN
+4) LSTM 
