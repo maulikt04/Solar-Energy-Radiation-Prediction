@@ -1,5 +1,5 @@
 # Solar-Energy-Radiation-Prediction
-Regarding task relevant with Machine learning 
+Regarding task relevant with Machine learning and deep learning
 
 
 ### Content
@@ -28,7 +28,8 @@ Supervised Learning case of Regression models
 2) Sklearn: Pandas, Numpy, Matplotlib, Seaboarn, model_selection
 3) Visulization tools: Tableau, Power BI (Optional)
 
-### Extra task (runnig....)
+### Extra task
+We can apply different deep learning methods like:
 1) Tensor flow
 2) Keras
 3) RNN
